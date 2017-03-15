@@ -1,0 +1,7 @@
+c:\users\dell\documents\visual studio 2015\Projects\MoqTestPJ\MoqTestPJ\bin\Debug\MoqTestPJ.dll
+c:\users\dell\documents\visual studio 2015\Projects\MoqTestPJ\MoqTestPJ\bin\Debug\MoqTestPJ.pdb
+c:\users\dell\documents\visual studio 2015\Projects\MoqTestPJ\MoqTestPJ\bin\Debug\Castle.Core.dll
+c:\users\dell\documents\visual studio 2015\Projects\MoqTestPJ\MoqTestPJ\bin\Debug\Castle.Core.xml
+c:\users\dell\documents\visual studio 2015\Projects\MoqTestPJ\MoqTestPJ\obj\Debug\MoqTestPJ.csprojResolveAssemblyReference.cache
+c:\users\dell\documents\visual studio 2015\Projects\MoqTestPJ\MoqTestPJ\obj\Debug\MoqTestPJ.dll
+c:\users\dell\documents\visual studio 2015\Projects\MoqTestPJ\MoqTestPJ\obj\Debug\MoqTestPJ.pdb

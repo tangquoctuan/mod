@@ -1,0 +1,12 @@
+c:\users\dell\documents\visual studio 2015\Projects\MoqTestPJ\LibraryCoreTest\bin\Debug\LibraryCoreTest.dll
+c:\users\dell\documents\visual studio 2015\Projects\MoqTestPJ\LibraryCoreTest\bin\Debug\LibraryCoreTest.pdb
+c:\users\dell\documents\visual studio 2015\Projects\MoqTestPJ\LibraryCoreTest\bin\Debug\Castle.Core.dll
+c:\users\dell\documents\visual studio 2015\Projects\MoqTestPJ\LibraryCoreTest\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+c:\users\dell\documents\visual studio 2015\Projects\MoqTestPJ\LibraryCoreTest\bin\Debug\Moq.dll
+c:\users\dell\documents\visual studio 2015\Projects\MoqTestPJ\LibraryCoreTest\bin\Debug\MoqTestPJ.dll
+c:\users\dell\documents\visual studio 2015\Projects\MoqTestPJ\LibraryCoreTest\bin\Debug\MoqTestPJ.pdb
+c:\users\dell\documents\visual studio 2015\Projects\MoqTestPJ\LibraryCoreTest\bin\Debug\Castle.Core.xml
+c:\users\dell\documents\visual studio 2015\Projects\MoqTestPJ\LibraryCoreTest\bin\Debug\Moq.xml
+c:\users\dell\documents\visual studio 2015\Projects\MoqTestPJ\LibraryCoreTest\obj\Debug\LibraryCoreTest.csprojResolveAssemblyReference.cache
+c:\users\dell\documents\visual studio 2015\Projects\MoqTestPJ\LibraryCoreTest\obj\Debug\LibraryCoreTest.dll
+c:\users\dell\documents\visual studio 2015\Projects\MoqTestPJ\LibraryCoreTest\obj\Debug\LibraryCoreTest.pdb
