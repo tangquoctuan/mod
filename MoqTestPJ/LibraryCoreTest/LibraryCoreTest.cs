@@ -22,7 +22,7 @@ namespace LibraryCoreTest
                 MemberID = 1,
                 FirstName = "Tang",
                 SecondName = "Tuan",
-                Age = 27,
+                Age = 28,
                 MaximumBookCanBorrow = 4
             };
 
